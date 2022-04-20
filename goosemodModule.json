@@ -1,0 +1,12 @@
+{
+	"main": "src/main.js",
+	"name": "Pronouns",
+	"description": "A plugin to integrate discord with pronoundb/api",
+	"tags": [
+		"pronouns"
+	],
+	"authors": [
+		"Tyman#5998"
+	],
+	"version": "0.0.1"
+}
